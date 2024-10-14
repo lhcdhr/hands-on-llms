@@ -6,7 +6,7 @@ python-dotenv
 rich
 pydantic
 chromadb
-# pysqlite3-binary
+pysqlite3-binary
 streamlit
 transformers
 matplotlib
